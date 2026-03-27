@@ -8,9 +8,9 @@
 <br>
 <br>
 <h4>🖥In model <strong>desktop</strong>.🖥</h4>
-<img src="https://github.com/samueldavisoares/Easy-shopping/blob/main/assets/desktop.png?raw=true" alt="demonstração desktop">
+<img src="https://github.com/samueldavisoares/Easy-shopping/blob/main/assets/desktop.png?raw=true" alt="desktop-demonstration">
 <p><strong>🖊I learn a lot while I did this project🖊</strong></p>
 <br>
 <br>
 <h4>📱In model <strong>Mobile</strong>.📱</h4>
-<img src="">
+<img src="https://github.com/samueldavisoares/Easy-shopping/blob/main/assets/mobile.png?raw=true" alt="mobile-demonstration">
